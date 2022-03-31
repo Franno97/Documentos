@@ -1,0 +1,15 @@
+*.pdb
+*.dll
+*.cache
+bin
+obj
+packages
+Mre.Servicios.SharePoint.Api/.vs/Mre.Servicios.SharePoint.Api/v16/.suo
+Mre.Servicios.SharePoint.Api/Mre.Servicios.SharePoint.Api/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Mre.Servicios.SharePoint.Api/Mre.Servicios.SharePoint.Api/obj/Debug/Mre.Servicios.SharePoint.Api.csproj.AssemblyReference.cache
+Mre.Servicios.SharePoint.Api/.vs/Mre.Servicios.SharePoint.Api/config/applicationhost.config
+Mre.Servicios.SharePoint.Api/.vs/Mre.Servicios.SharePoint.Api/v16/.suo
+Mre.Servicios.SharePoint.Api/.vs/Mre.Servicios.SharePoint.Api/v16/.suo
+Mre.Servicios.SharePoint.Api/Mre.Servicios.SharePoint.Api/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+Mre.Servicios.SharePoint.Api/Mre.Servicios.SharePoint.Api/obj/Debug/Mre.Servicios.SharePoint.Api.csproj.AssemblyReference.cache
+Mre.Servicios.SharePoint.Api/.vs/Mre.Servicios.SharePoint.Api/config/applicationhost.config
